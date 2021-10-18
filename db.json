@@ -1,0 +1,300 @@
+{
+    "beers": [
+      {
+        "id": "968ffffa-689c-4f59-906a-35b07bde9439",
+        "name": "Buzz",
+        "description": "A light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only once.",
+        "food_pairing": [
+          "Spicy chicken tikka masala",
+          "Grilled chicken quesadilla",
+          "Caramel toffee cake"
+        ],
+        "brewers_tips": "The earthy and floral aromas from the hops can be overpowering. Drop a little Cascade in at the end of the boil to lift the profile with a bit of citrus.",
+        "flavour": "Bitter",
+        "image": "https://res.cloudinary.com/dwrla4d2s/image/upload/v1634110324/final_project/1-removebg-preview_jyb7fq.png"
+      },
+      {
+        "id": "4ea4f82c-9898-48ac-b71e-727e5ef64d6a",
+        "name": "Trashy Blonde",
+        "description": "A titillating, neurotic, peroxide punk of a Pale Ale. Combining attitude, style, substance, and a little bit of low self esteem for good measure; what would your mother say? The seductive lure of the sassy passion fruit hop proves too much to resist. All that is even before we get onto the fact that there are no additives, preservatives, pasteurization or strings attached. All wrapped up with the customary BrewDog bite and imaginative twist.",
+        "food_pairing": [
+          "Fresh crab with lemon",
+          "Garlic butter dipping sauce",
+          "Goats cheese salad",
+          "Creamy lemon bar doused in powdered sugar"
+        ],
+        "brewers_tips": "Be careful not to collect too much wort from the mash. Once the sugars are all washed out there are some very unpleasant grainy tasting compounds that can be extracted into the wort.",
+        "flavour": "Caramel-sweet",
+        "image": "https://res.cloudinary.com/dwrla4d2s/image/upload/v1634116564/final_project/Piva/2-removebg-preview_cjpyom.png"
+      },
+      {
+        "id": "70c550dd-fff8-498c-a7df-b7fd0d39cb57",
+        "name": "Berliner Weisse With Yuzu",
+        "description": "Japanese citrus fruit intensifies the sour nature of this German classic.",
+        "food_pairing": [
+          "Spicy chicken tikka masala",
+          "Grilled chicken quesadilla",
+          "Caramel toffee cake"
+        ],
+        "brewers_tips": "Clean everything twice. All you want is the clean sourness of lactobacillus.",
+        "flavour": "Sweet",
+        "image": "https://res.cloudinary.com/dwrla4d2s/image/upload/v1634116563/final_project/Piva/3-removebg-preview_m41soo.png"
+      },
+      {
+        "id": "c31ee495-a340-4ffb-a1d1-e7951596007a",
+        "name": "Pilsen Lager",
+        "description": "Our Unleash the Yeast series was an epic experiment into the differences in aroma and flavour provided by switching up your yeast. We brewed up a wort with a light caramel note and some toasty biscuit flavour, and hopped it with Amarillo and Centennial for a citrusy bitterness. Everything else is down to the yeast. Pilsner yeast ferments with no fruity esters or spicy phenols, although it can add a hint of butterscotch.",
+        "food_pairing": [
+          "Spicy crab cakes",
+          "Spicy cucumber and carrot Thai salad",
+          "Sweet filled dumplings"
+        ],
+        "brewers_tips": "Play around with the fermentation temperature to get the best flavour profile from the individual yeasts.",
+        "flavour": "Bitter",
+        "image": "https://res.cloudinary.com/dwrla4d2s/image/upload/v1634116563/final_project/Piva/4-removebg-preview_pmlu5n.png"
+      },
+      {
+        "id": "f1faceea-3970-4517-9e98-a013217cadc5",
+        "name": "Avery Brown Dredge",
+        "description": "An Imperial Pilsner in collaboration with beer writers. Tradition. Homage. Revolution. We wanted to showcase the awesome backbone of the Czech brewing tradition, the noble Saaz hop, and also tip our hats to the modern beers that rock our world, and the people who make them.",
+        "food_pairing": [
+          "Vietnamese squid salad",
+          "Chargrilled corn on the cob with paprika butter",
+          "Strawberry and rhubarb pie"
+        ],
+        "brewers_tips": "Make sure you have a big enough yeast starter to ferment through the OG and lager successfully.",
+        "flavour": "Sweet",
+        "image": "https://res.cloudinary.com/dwrla4d2s/image/upload/v1634116565/final_project/Piva/5-removebg-preview_vyjmhf.png"
+      },
+      {
+        "id": "a645585b-22a7-4083-b7f6-815b015921d8",
+        "name": "Electric India",
+        "description": "Re-brewed as a spring seasonal, this beer – which appeared originally as an Equity Punk shareholder creation – retains its trademark spicy, fruity edge. A perfect blend of Belgian Saison and US IPA, crushed peppercorns and heather honey are also added to produce a genuinely unique beer.",
+        "food_pairing": [
+          "Mussels with a garlic and herb sauce",
+          "Crab melt sandwich",
+          "Shortbread cookies"
+        ],
+        "brewers_tips": "Source some really good heather honey to get the right spicy esters in the beer.",
+        "flavour": "Bitter",
+        "image": "https://res.cloudinary.com/dwrla4d2s/image/upload/v1634116564/final_project/Piva/6-removebg-preview_ziwzhh.png"
+      },
+      {
+        "id": "51a43082-66bd-4014-b97f-ebfb37c6ee9c",
+        "name": "AB:12",
+        "description": "An Imperial Black Belgian Ale aged in old Invergordon Scotch whisky barrels with mountains of raspberries, tayberries and blackberries in each cask. Decadent but light and dry, this beer would make a fantastic base for ageing on pretty much any dark fruit - we used raspberries, tayberries and blackberries beause they were local.",
+        "food_pairing": [
+          "Tandoori lamb with pomegranate",
+          "Beef Wellington with a red wine jus",
+          "Raspberry chocolate torte"
+        ],
+        "brewers_tips": "Don't worry too much about controlling the temperature with the Belgian yeast strain - just make sure it doesn't rise above 30°C!",
+        "flavour": "Sweet",
+        "image": "https://res.cloudinary.com/dwrla4d2s/image/upload/v1634116562/final_project/Piva/7-removebg-preview_bt8ld5.png"
+      },
+      {
+        "id": "24fe26fb-eb5c-4127-a83f-b77539032098",
+        "name": "Fake Lager",
+        "description": "Fake is the new black. Fake is where it is at. Fake Art, fake brands, fake breasts, and fake lager. We want to play our part in the ugly fallout from the Lager Dream. Say hello to Fake Lager – a zesty, floral 21st century faux masterpiece with added BrewDog bitterness.",
+        "food_pairing": [
+          "Fried crab cakes with avocado salsa",
+          "Spicy shredded pork roll with hot dipping sauce",
+          "Key lime pie"
+        ],
+        "brewers_tips": "Once the primary fermentation is complete get this beer as cold as you can and let it mature for as long as you've got.",
+        "flavour": "Bitter",
+        "image": "https://res.cloudinary.com/dwrla4d2s/image/upload/v1634116562/final_project/Piva/8-removebg-preview_uz3vbe.png"
+      },
+      {
+        "id": "26bee344-e338-42e1-a8b5-9dfbdc1ab713",
+        "name": "Bramling X",
+        "description": "Good old Bramling Cross is elegant, refined, assured, (boring) and understated. Understated that is unless you hop the living daylights out of a beer with it. This is Bramling Cross re-invented and re-imagined, and shows just what can be done with English hops if you use enough of them. Poor Bramling Cross normally gets lost in a woeful stream of conformist brown ales made by sleepy cask ale brewers. But not anymore. This beer shows that British hops do have some soul, and is a fruity riot of blackberries, pears, and plums. Reminds me of the bramble, apple and ginger jam my grandmother used to make.",
+        "food_pairing": [
+          "Warm blackberry pie",
+          "Vinegar doused fish and chips",
+          "Aromatic korma curry with lemon and garlic naan"
+        ],
+        "brewers_tips": "Getting good Bramling Cross is key. Most English hops are in leaf form (not pelletised), so getting fresh hops close to harvest (September) will give this beer the right amount of dark berry intensity.",
+        "flavour": "Bitter",
+        "image": "https://res.cloudinary.com/dwrla4d2s/image/upload/v1634116562/final_project/Piva/9-removebg-preview_nyzori.png"
+      },
+      {
+        "id": "838336e6-c03d-42d7-ae9f-ffec02e11885",
+        "name": "Misspent Youth",
+        "description": "The brainchild of our small batch brewer, George Woods. A dangerously drinkable milk sugar- infused Scotch Ale.",
+        "food_pairing": [
+          "Roasted garlic and chilli infused camembert cheese",
+          "Korean style chicken wings",
+          "Chocolate milk shake"
+        ],
+        "brewers_tips": "Lots of malt in this one. Mash-in in stages, and spread the pale ale malt throughout the mash to provide stability. If the mash starts to sink, stop, wait a few minutes while mixing, then start again.",
+        "flavour": "Bitter",
+        "image": "https://res.cloudinary.com/dwrla4d2s/image/upload/v1634116563/final_project/Piva/10-removebg-preview_mqlpm0.png"
+      },
+      {
+        "id": "def234a5-b0f5-4b09-88c9-a2f63509e70c",
+        "name": "Arcade Nation",
+        "description": "Running the knife-edge between an India Pale Ale and a Stout, this particular style is one we truly love. Black IPAs are a great showcase for the skill of our brew team, balancing so many complex and twisting flavours in the same moment. The citrus, mango and pine from the hops – three of our all-time favourites – play off against the roasty dryness from the malt bill at each and every turn.",
+        "food_pairing": [
+          "King prawn kebabs",
+          "Halibut with a mango and tomato salad",
+          "Mint chocloate ice cream"
+        ],
+        "brewers_tips": "Be as accurate as possible when weighing out your malts to ensure you strike the right balance.",
+        "flavour": "Sweet",
+        "image": "https://res.cloudinary.com/dwrla4d2s/image/upload/v1634116562/final_project/Piva/11-removebg-preview_gftidb.png"
+      },
+      {
+        "id": "617d51a4-b2ce-44d3-b9fa-7d963b2fe39a",
+        "name": "Movember",
+        "description": "A deliciously robust, black malted beer with a decadent dark, dry cocoa flavour that provides an enticing backdrop to the Cascade hops.",
+        "food_pairing": [
+          "Vegetable egg scramble",
+          "Margherita pizza",
+          "Fresh berry crisp tart"
+        ],
+        "brewers_tips": "If you can’t find really fresh cascade, substitute it for Amarillo or Ahtanum.",
+        "flavour": "Citrus",
+        "image": "https://res.cloudinary.com/dwrla4d2s/image/upload/v1634116565/final_project/Piva/12-removebg-preview_nlxpr1.png"
+      },
+      {
+        "id": "3911f335-3751-4d8f-9d79-707833dc8bd8",
+        "name": "Alpha Dog",
+        "description": "A fusion of caramel malt flavours and punchy New Zealand hops. A session beer you can get your teeth into.",
+        "food_pairing": [
+          "Pastrami",
+          "Swiss and horseradish sandwich",
+          "Sharp cheddar cheese and onion/ raisin chutney",
+          "Peanut brittle"
+        ],
+        "brewers_tips": "Crush the malt as close to brewing time as possible. The fresher the malt, the more intense caramel flavours will be released in the wort.",
+        "flavour": "Bitter",
+        "image": "https://res.cloudinary.com/dwrla4d2s/image/upload/v1634116563/final_project/Piva/13-removebg-preview_fn2lox.png"
+      },
+      {
+        "id": "1b1ddea7-77c2-4b54-bc3c-64168d60d113",
+        "name": "Mixtape 8",
+        "description": "This recipe is for the Belgian Tripel base. A blend of two huge oak aged beers – half a hopped up Belgian Tripel, and half a Triple India Pale Ale. Both aged in single grain whisky barrels for two years and blended, each beer brings its own character to the mix. The Belgian Tripel comes loaded with complex spicy, fruity esters, and punchy citrus hop character.",
+        "food_pairing": [
+          "Coriander & chilli crab cakes",
+          "Goats cheese salad with walnuts, radish and blood orange",
+          "Pistachio cake"
+        ],
+        "brewers_tips": "Brew twice as much Belgian Tripel as you were planning on ageing - it's awesome on its own too!",
+        "flavour": "Caramel",
+        "image": "https://res.cloudinary.com/dwrla4d2s/image/upload/v1634116563/final_project/Piva/14-removebg-preview_g3ygvs.png"
+      },
+      {
+        "id": "c002c1b8-e49d-400d-ac5e-3ebefb8b203f",
+        "name": "Libertine Porter",
+        "description": "An avalanche of cross-continental hop varieties give this porter a complex spicy, resinous and citrusy aroma, with a huge malt bill providing a complex roasty counterpoint. Digging deeper into the flavour draws out cinder toffee, bitter chocolate and hints of woodsmoke.",
+        "food_pairing": [
+          "Blue cheese beef burger",
+          "Glazed short ribs",
+          "Chocolate cake"
+        ],
+        "brewers_tips": "Mash in at a higher temperature to leave more unfermentable sugars in the wort. This gives the beer a sweeter porter profile.",
+        "flavour": "Bitter",
+        "image": "https://res.cloudinary.com/dwrla4d2s/image/upload/v1634116564/final_project/Piva/15-removebg-preview_nctop8.png"
+      },
+      {
+        "id": "c1113b1b-5e17-474f-8783-08ef8d8eb38b",
+        "name": "Russian Doll",
+        "description": "The levels of hops vary throughout the range. We love hops, so all four beers are big, bitter badasses, but by tweaking the amount of each hop used later in the boil and during dry- hopping, we can balance the malty backbone with some unexpected flavours. Simcoe is used in the whirlpool for all four beers, and yet still lends different characters to each",
+        "food_pairing": [
+          "Spicy chicken skewers",
+          "Fish tacos with hot sauce",
+          "Lemon pound cake with a ice sugar glaze"
+        ],
+        "brewers_tips": "Create balance through experimentation with the hop amounts and malt backbone.",
+        "flavour": "Bitter",
+        "image": "https://res.cloudinary.com/dwrla4d2s/image/upload/v1634116563/final_project/Piva/16-removebg-preview_ve0flv.png"
+      },
+      {
+        "id": "dae2a5be-c59c-4a44-b9ec-14c1547af734",
+        "name": "Hello My Name Is Mette-Marit",
+        "description": "We sent this beer to Norway where it was known as 'Hello, my name is Censored’. You can make up your own mind as to why. This brew was a red berry explosion, with a reisnous bitter edge layered with dry berry tartness.",
+        "food_pairing": [
+          "Fårikål (mutton stew) with a spicy twist",
+          "Fenalår (salted cured lamb)",
+          "Krumkake with lingonberry jam"
+        ],
+        "brewers_tips": "Using crushed cranberries will dry out the beer further, drawing out their natural astringent character.",
+        "flavour": "Bitter",
+        "image": "https://res.cloudinary.com/dwrla4d2s/image/upload/v1634116563/final_project/Piva/17-removebg-preview_n3iy3b.png"
+      },
+      {
+        "id": "994b79f0-d554-486f-ba57-c4b73359cfba",
+        "name": "Rabiator",
+        "description": "Imperial Wheat beer / Weizenbock brewed by a homesick German in leather trousers. Think banana bread, bubble gum and David Hasselhoff.",
+        "food_pairing": [
+          "Grilled portabello mushroom burger",
+          "Chicken sausages with creamy mash",
+          "Caramel and banana meringue pie"
+        ],
+        "brewers_tips": "If you are struggling to get that authentic head retention increase your mash temperature to about 70°C.",
+        "flavour": "Sweet",
+        "image": "https://res.cloudinary.com/dwrla4d2s/image/upload/v1634116563/final_project/Piva/18-removebg-preview_uxle1v.png"
+      },
+      {
+        "id": "75bc7c20-2d16-11ec-8bbe-0d7eee4d0dd7",
+        "name": "jryjr",
+        "description": "thrr",
+        "flavour": "jrjr",
+        "food_pairing": [
+          "jteje",
+          " hrtjtrj",
+          " rtjrjrt"
+        ],
+        "image": ""
+      },
+      {
+        "id": "c65b7c10-2da9-11ec-8d86-3bf979750a35",
+        "name": "Beer 2",
+        "description": "ktyktktkrturueurtjyuo68o8oy",
+        "flavour": "Bitter",
+        "food_pairing": [
+          "nesto1",
+          " nesto2",
+          " nesto3",
+          " nesto4"
+        ],
+        "image": ""
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "username": "Pera",
+        "email": "pera@gmail.com",
+        "password": "pera123",
+        "favorite": []
+      },
+      {
+        "id": "e5f8c4e0-2860-11ec-98ba-e18b9da2e55a",
+        "username": "Miki",
+        "email": "miki@gmail.com",
+        "password": "Password123.",
+        "favorite": []
+      },
+      {
+        "id": "d88b31c0-2ab9-11ec-ad92-71e136994938",
+        "username": "Jeja",
+        "email": "jeja@gmail.com",
+        "password": "Password123.",
+        "beer": {
+          "id": "c65b7c10-2da9-11ec-8d86-3bf979750a35",
+          "name": "Beer 2",
+          "description": "ktyktktkrturueurtjyuo68o8oy",
+          "flavour": "Bitter",
+          "food_pairing": [
+            "nesto1",
+            " nesto2",
+            " nesto3",
+            " nesto4"
+          ],
+          "image": ""
+        }
+      }
+    ]
+  }
